@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "standing-desk-ml"
+  "defaultProject": "standing-desk-ml",
+  "cli": {
+    "analytics": "27544721-3145-405a-bea5-88fa159e92e9"
+  }
 }

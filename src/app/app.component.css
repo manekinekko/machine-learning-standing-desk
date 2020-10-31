@@ -1,0 +1,31 @@
+video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+span {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: block;
+  font-size: 3em;
+  color: white;
+  padding: 10px 30px;
+  border-radius: 10px;
+  font-family: sans-serif;
+  margin: 20px;
+  transition: background 1s;
+}
+
+.Sitting {
+  background: #ff0077;
+}
+.Standing {
+  background: #0aa994;
+}
+.Unknown {
+  background: #0e0e0e;
+}
